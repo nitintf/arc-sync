@@ -10,7 +10,7 @@
 		"128": "assets/icons/favicon-128.png"
 	},
 	"description": "A simple extension that syncs your Arc Browser data to the github.",
-	"homepage_url": "https://github.com/nitintf",
+	"homepage_url": "https://github.com/nitintf/arc-sync",
 	"short_name": "Sample Name",
 
 	"permissions": ["activeTab", "storage", "http://*/*", "https://*/*"],
